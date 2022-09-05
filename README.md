@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nAIsystems
+- 👋 Hi, I’m Fathi M Salem @nAIsystems
 - 👀 I’m interested in Neural AI Systems which include Recurrent Neural Networks and Architectures. I have recently published a (Text-)book
 entitled "Recurrent Neural Networks: from simple to gated architectures," Springer, January 2022. I hope to create a repository here for the 
 the supplementarty material (syllabus, tutorials, notes,...) associated with the textbook.
